@@ -1,6 +1,6 @@
 // datatypes
 // Number;
-// String;
+String;
 // Boolean;
 // null;
 // undefined;
