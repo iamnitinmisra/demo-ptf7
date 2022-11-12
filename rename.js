@@ -1,8 +1,8 @@
 // datatypes
-Number;
-String;
-Boolean;
-null;
-undefined;
-Object;
-Array;
+// Number;
+// String;
+// Boolean;
+// null;
+// undefined;
+// Object;
+// Array;
